@@ -1,12 +1,4 @@
 //Nicholas Guidice
-//CS 375 Program 3 "heapSort"
-
-//Runtime Information
-//Computer: Lenovo Yoga 7 Laptop, OS: Windows, CPU: Intel i5-1135G7
-//mergeSort Time: 1M: 0m47.913s 10M: 4m29.721s
-//heapSort Time: 1M: 0m7.442s 10M: 1m9.526s
-
-//Conclusions: heapSort is significantly faster than mergeSort, It is roughly a constant factor comparing 1M and 10M
 
 //Import Libraries 
 #include <iostream>
